@@ -3,10 +3,10 @@ var galleryContent = `  <div class="gallery">
 <div class="gallery-images">
     <div class="gallery-images-columnleft">
         <div class="sixteenbynine">
-            <img src="images/shot-2.jpg" alt="">
+            <img src="images/Shot-2.jpg" alt="">
         </div>
         <div class="fourbyfive">
-            <img src="images/shot-6.jpg" alt="">
+            <img src="images/Shot-6.jpg" alt="">
         </div>
     </div>
     <div class="gallery-images-columnmiddle">
@@ -14,15 +14,15 @@ var galleryContent = `  <div class="gallery">
             <img src="images/Shot-1.jpg" alt="">
         </div>
         <div class="sixteenbynine">
-            <img src="images/shot-45.jpg" alt="">
+            <img src="images/Shot-45.jpg" alt="">
         </div>
     </div>
     <div class="gallery-images-columnright">
         <div class="sixteenbynine">
-            <img src="images/shot-40.jpg" alt="">
+            <img src="images/Shot-40.jpg" alt="">
         </div>
         <div class="fourbyfive">
-            <img src="images/shot-17.jpg" alt="">
+            <img src="images/Shot-17.jpg" alt="">
         </div>
     </div>
 </div>
@@ -81,7 +81,7 @@ var blogContent = `<div class="blog">
     <div class="blog-info">
 
       <div class="blog-image">
-          <img src="images/shot-37.jpg" alt="">
+          <img src="images/Shot-37.jpg" alt="">
       </div>
       <div class="blog-title">
           <p>Vacation in Hawaii, Day 2</p>
@@ -98,7 +98,7 @@ var contactContent = `<div class="contact">
 
 <div class="collection">
     <div class="contact-image">
-        <img src="images/shot-7.jpg" alt="">
+        <img src="images/Shot-7.jpg" alt="">
 
     </div>
     <div class="contact-form">
