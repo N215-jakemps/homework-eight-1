@@ -11,7 +11,7 @@ var galleryContent = ` <div class="gallery">
     </div>
     <div class="gallery-images-columnmiddle">
         <div class="fourbyfive">
-            <img src="../images/shot-1.jpg" alt="">
+            <img src="/images/shot-1.jpg" alt="">
         </div>
         <div class="sixteenbynine">
             <img src="../images/shot-45.jpg" alt="">
