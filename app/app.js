@@ -98,7 +98,7 @@ var contactContent = `<div class="contact">
 
 <div class="collection">
     <div class="contact-image">
-        <img src="images/Shot-7.jpg" alt="">
+        <img src="images/Shot-7.JPG" alt="">
 
     </div>
     <div class="contact-form">
